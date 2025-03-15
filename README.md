@@ -4,7 +4,7 @@ This is game where players take turns to enter a number between 1 and 9, and the
 ## Requirements
 Have Linux/Cygwin environment installed in your machine.
 
-[Optional]
+*[Optional]*<br>
 Run two independent programs on different machine at the same time and communicate through a network. However, they can also be run on the same machine in separate terminals.
 
 ## Run Program
